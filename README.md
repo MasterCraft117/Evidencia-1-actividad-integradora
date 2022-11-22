@@ -9,7 +9,7 @@ Guillermo Gabriel Rivas Aguilar
 Luis Ricardo Peña Llamas
 Obed Nehemías Muñoz Reynoso
 José Enrique González Zapata
-
+//
 Alumnos:
 Kevin Fernando Meza Narváez    A01639770
 León Emiliano García Pérez         A00573074
