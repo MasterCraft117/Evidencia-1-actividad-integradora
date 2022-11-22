@@ -19,4 +19,5 @@ Modelación de Sistemas Multiagente con Gráficas Computacionales (TC 2008B.303)
 ### Campus:
 - Guadalajara
 
-Fecha de entrega: Lunes 21 de Octubre de 2022
+### Fecha de entrega:
+- Lunes 21 de Octubre de 2022
