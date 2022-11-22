@@ -1,7 +1,7 @@
 # EVIDENCIA 1: 
 Actividad integradora
 
-##Bloque Formativo:
+## Bloque Formativo:
 Modelación de Sistemas Multiagente con Gráficas Computacionales (TC 2008B.303)
 
 ### Profesores:
